@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Otuput
 
-https://github.com/user-attachments/assets/0f45832a-ebd4-4fcf-96aa-47c93b56b036
+https://github.com/user-attachments/assets/ba44e84a-1ba3-45c9-8eff-bd5720ee17a4
 
 
 ## Getting Started
